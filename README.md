@@ -24,7 +24,7 @@
 
 **Data, ML and computing**
 
-![ML](https://skillicons.dev/icons?i=pytorch,sklearn)
+![ML](https://skillicons.dev/icons?i=pytorch,sklearn,opencv)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
