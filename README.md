@@ -2,7 +2,7 @@
 
 <p align="center">
   Final-year student at <b>Centrale Lille</b> · Data Science & AI<br>
-  6-month final-year internship starting in April 2027
+  Seeking 6-month final-year internship starting in April 2027
 </p>
 
 <p align="center">
