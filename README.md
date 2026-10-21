@@ -37,6 +37,6 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [ImageConvolution-MPI-GPU](https://github.com/hfstrag/ImageConvolution-MPI-GPU) | Parallel image convolution using MPI + CUDA to accelerate computation on CPU/GPU | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| [Image-pattern-detection](https://github.com/hfstrag/Image-pattern-detection) | Detecting subtle periodic patterns in AI-generated images using spectral analysis and statistical testing | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [vocal-geometry](https://github.com/hfstrag/vocal-geometry) | Geometric analysis of vocal signals for structure discovery and feature-based comparison | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [ImageConvolution-MPI-GPU](https://github.com/hfstrag/ImageConvolution-MPI-GPU) | Parallel image convolution using MPI, CUDA, and C libraries (MPI, CUDA runtime, OpenCV) to accelerate computation on CPU/GPU | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
+| [Image-pattern-detection](https://github.com/hfstrag/Image-pattern-detection) | Detecting subtle periodic patterns in AI-generated images using spectral analysis, NumPy, SciPy, scikit-image, and statistical testing | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| [vocal-geometry](https://github.com/hfstrag/vocal-geometry) | Geometric analysis of vocal signals for structure discovery and feature-based comparison using NumPy, SciPy, librosa, and signal-processing methods | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
