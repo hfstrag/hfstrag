@@ -11,10 +11,10 @@ Stage de fin d'études de 6 mois à partir d'avril 2027
   </a>
 </p>
 
-## Ce que je fais
+## Ce que je fais :
 
-- **Recherche opérationnelle** : ordonnancement, optimisation combinatoire
 - **Data Science et IA** : apprentissage statistique, deep learning, NLP, séries temporelles
+- **Recherche opérationnelle** : ordonnancement, optimisation combinatoire
 - **Simulation et calcul scientifique** : modélisation, calcul parallèle CPU (C) et GPU (CUDA)
 
 ## Stack
@@ -25,8 +25,10 @@ Stage de fin d'études de 6 mois à partir d'avril 2027
 
 **Data, ML et calcul**
 
-![ML](https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,opencv)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![ML](https://skillicons.dev/icons?i=pytorch,sklearn)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) 
 
 **Développement et outils**
 
