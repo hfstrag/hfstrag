@@ -36,4 +36,4 @@ Stage de fin d'études de 6 mois à partir d'avril 2027
 
 | Projet | Description | Technos |
 |---|---|---|
-| [nom-du-dépôt](lien) | [Problème, méthode, résultat] | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [ImageConvolution-MPI-GPU](https://github.com/hfstrag/ImageConvolution-MPI-GPU) | Convolution d'images parallèle en MPI + CUDA pour accélérer le calcul sur CPU/GPU | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-2F5D8C?style=flat-square&logo=linux&logoColor=white) |
