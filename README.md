@@ -1,41 +1,83 @@
-<h1 align="center">Henry Fernandes--Strag</h1>
+<h1 align="center">Hi, I'm Henry Fernandes--Strag 👋</h1>
 
 <p align="center">
-  Final-year student at <b>Centrale Lille</b> · Data Science & AI<br>
-  Seeking 6-month final-year internship starting in April 2027
+  <b>Data Science & AI engineering student at Centrale Lille</b><br>
+  Machine learning · Deep learning · NLP · Operations research
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/henry-fernandes-strag-8a5555284">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/hfstrag?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
   </a>
 </p>
 
-## What I do
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_Open_to-6--month_final--year_internship_·_from_April_2027-2ea44f?style=flat-square" alt="Open to a 6-month internship from April 2027">
+</p>
 
-- **Data Science and AI**: Machine learning, deep learning, NLP
-- **Operations research**: scheduling, combinatorial optimization
+---
 
-## Stack
+## 🧭 About me
+
+I'm a final-year engineering student specializing in **Data Science and Artificial Intelligence**. I like problems where solid math meets efficient code: building models that learn from data, and making computation fast enough to matter.
+
+- 🤖 **Machine learning & AI**: deep learning, NLP, computer vision, statistical modeling
+- 📐 **Operations research**: scheduling, combinatorial optimization
+- ⚡ **High-performance computing**: parallel programming with MPI and CUDA
+- 🎓 **Currently**: final year at Centrale Lille, looking for a **6-month end-of-studies internship starting April 2027** in ML engineering, data science or optimization
+
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hfstrag/watermark-detection">🔍 watermark-detection</a></h3>
+      <p>Detects subtle periodic patterns hidden in AI-generated images, combining <b>spectral analysis</b> with <b>statistical hypothesis testing</b> to tell watermarked images from clean ones.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+      <img src="https://img.shields.io/badge/Signal_processing-555?style=flat-square" alt="Signal processing">
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hfstrag/ImageConvolution-MPI-GPU">⚡ ImageConvolution-MPI-GPU</a></h3>
+      <p>Parallel image convolution that splits the work across processes with <b>MPI</b> and offloads computation to the GPU with <b>CUDA</b>, accelerating processing on both CPU clusters and GPUs.</p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA">
+      <img src="https://img.shields.io/badge/MPI-1F4E79?style=flat-square" alt="MPI">
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Tech stack
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=python,r,c,java,html,css,js)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,c,java,js,html,css" alt="Python, R, C, Java, JavaScript, HTML, CSS">
+</p>
 
-**Data, ML and computing**
+**Data science, ML & computing**
 
-![ML](https://skillicons.dev/icons?i=pytorch,sklearn,opencv)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" alt="PyTorch, scikit-learn, OpenCV">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter">
+</p>
 
-**Development and tools**
+<p>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
+  <img src="https://img.shields.io/badge/MPI-1F4E79?style=for-the-badge" alt="MPI">
+</p>
 
-![Tools](https://skillicons.dev/icons?i=django,qt,git,docker,linux,latex,vscode)
+**Development & tools**
 
-## Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,django,qt,latex,vscode" alt="Git, GitHub, Docker, Linux, Django, Qt, LaTeX, VS Code">
+</p>
 
-| Project | Description | Tech |
-|---|---|---|
-| [ImageConvolution-MPI-GPU](https://github.com/hfstrag/ImageConvolution-MPI-GPU) | Parallel image convolution using MPI + CUDA to accelerate computation on CPU/GPU | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| [watermark-detection](https://github.com/hfstrag/watermark-detection) | Detecting subtle periodic patterns in AI-generated images using spectral analysis and statistical testing | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+## 📫 Let's connect
+
+I'm actively looking for a **final-year internship (6 months, from April 2027)**. If you work on ML, data or optimization problems, I'd be glad to talk. The best way to reach me is on [LinkedIn](https://linkedin.com/in/henry-fernandes-strag-8a5555284).
