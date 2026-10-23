@@ -13,7 +13,7 @@
 
 ## What I do
 
-- **Data Science and AI**: statistical learning, deep learning, NLP, time series
+- **Data Science and AI**: Machine learning, deep learning, NLP
 - **Operations research**: scheduling, combinatorial optimization
 
 ## Stack
