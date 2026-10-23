@@ -25,6 +25,7 @@
 I'm a final-year engineering student specializing in **Data Science and Artificial Intelligence**. I like problems where solid math meets efficient code: building models that learn from data, and making computation fast enough to matter.
 
 - 🤖 **Machine learning & AI**: deep learning, NLP, computer vision, statistical modeling
+- 🧩 **LLM applications**: speech pipelines and tool-calling LLMs built to be reliable and testable
 - 📐 **Operations research**: scheduling, combinatorial optimization
 - ⚡ **High-performance computing**: parallel programming with MPI and CUDA
 - 🎓 **Currently**: final year at Centrale Lille, looking for a **6-month end-of-studies internship starting April 2027** in ML engineering, data science or optimization
@@ -32,6 +33,24 @@ I'm a final-year engineering student specializing in **Data Science and Artifici
 ## 🚀 Featured projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/hfstrag/accessible-geometry">🎙️ accessible-geometry</a></h3>
+      <p>Voice-controlled <b>GeoGebra</b> for middle-school students who can't use a mouse or keyboard: they build geometric figures just by speaking, in French or English, and the app draws them and confirms out loud.</p>
+      <ul>
+        <li>Speech-to-text with <b>Whisper</b>, then an <b>LLM restricted to tool calls</b> (typed Pydantic actions), never raw commands</li>
+        <li>A planner validates every action against the current figure before translating it into GeoGebra commands, so the system stays predictable and testable</li>
+        <li>All-or-nothing execution, clarifying questions on ambiguous requests, deterministic spoken feedback</li>
+        <li>Strictly typed, fully tested offline with fakes, CI on every push</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic">
+      <img src="https://img.shields.io/badge/LLM_tool_calling-6E40C9?style=flat-square" alt="LLM tool calling">
+      <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square" alt="Whisper">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/hfstrag/watermark-detection">🔍 watermark-detection</a></h3>
@@ -75,7 +94,7 @@ I'm a final-year engineering student specializing in **Data Science and Artifici
 **Development & tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,django,qt,latex,vscode" alt="Git, GitHub, Docker, Linux, Django, Qt, LaTeX, VS Code">
+  <img src="https://skillicons.dev/icons?i=fastapi,django,git,github,githubactions,docker,linux,qt,latex,vscode" alt="FastAPI, Django, Git, GitHub, GitHub Actions, Docker, Linux, Qt, LaTeX, VS Code">
 </p>
 
 ## 📫 Let's connect
